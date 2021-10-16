@@ -62,7 +62,7 @@ const characters = [
   {
     name: "Beidou",
     stars: 4,
-    element: "electro",
+    element: "Electro",
     image: "beidou.webp",
     ascension: "character_beidou.webp",
     guide: "character_beidou.webp",
@@ -153,7 +153,7 @@ const characters = [
   {
     name: "Fischl",
     stars: 4,
-    element: "electro",
+    element: "Electro",
     image: "fischl.webp",
     ascension: "character_fischl.webp",
     guide: "character_fischl.webp",
@@ -199,7 +199,7 @@ const characters = [
   {
     name: "Jean",
     stars: 5,
-    element: "anemo",
+    element: "Anemo",
     image: "jean.webp",
     ascension: "character_jean.webp",
     guide: "character_jean.webp",
@@ -227,7 +227,7 @@ const characters = [
   {
     name: "Kaedehara Kazuha",
     stars: 5,
-    element: "anemo",
+    element: "Anemo",
     image: "kazuha.webp",
     ascension: "character_kazuha.webp",
     guide: "character_kazuha.webp",
@@ -245,7 +245,7 @@ const characters = [
   {
     name: "Keqing",
     stars: 5,
-    element: "electro",
+    element: "Electro",
     image: "keqing.webp",
     ascension: "character_keqing.webp",
     guide: "character_keqing.webp",
@@ -295,7 +295,7 @@ const characters = [
   {
     name: "Kojou Sara",
     stars: 4,
-    element: "electro",
+    element: "Electro",
     image: "kujou_sara.webp",
     ascension: "character_sara.webp",
     guide: "character_sara.webp",
@@ -304,7 +304,7 @@ const characters = [
   {
     name: "Lisa",
     stars: 4,
-    element: "electro",
+    element: "Electro",
     image: "lisa.webp",
     ascension: "character_lisa.webp",
     guide: "character_lisa.webp",
@@ -378,7 +378,7 @@ const characters = [
   {
     name: "Raiden Shogun",
     stars: 5,
-    element: "electro",
+    element: "Electro",
     image: "raiden_shogun.webp",
     ascension: "character_raiden.webp",
     guide: "character_raiden.webp",
@@ -396,7 +396,7 @@ const characters = [
   {
     name: "Razor",
     stars: 4,
-    element: "electro",
+    element: "Electro",
     image: "razor.webp",
     ascension: "character_razor.webp",
     guide: "character_razor.webp",
@@ -428,7 +428,7 @@ const characters = [
   {
     name: "Sayu",
     stars: 4,
-    element: "electro",
+    element: "Electro",
     image: "sayu.webp",
     ascension: "character_sayu.webp",
     guide: "character_sayu.webp",
@@ -437,7 +437,7 @@ const characters = [
   {
     name: "Sucrose",
     stars: 4,
-    element: "anemo",
+    element: "Anemo",
     image: "sucrose.webp",
     ascension: "character_sucrose.webp",
     guide: "character_sucrose.webp",
@@ -478,7 +478,7 @@ const characters = [
   {
     name: "Venti",
     stars: 5,
-    element: "anemo",
+    element: "Anemo",
     image: "venti.webp",
     ascension: "character_venti.webp",
     guide: "character_venti.webp",
@@ -506,7 +506,7 @@ const characters = [
   {
     name: "Xiao",
     stars: 5,
-    element: "anemo",
+    element: "Anemo",
     image: "xiao.webp",
     ascension: "character_xiao.webp",
     guide: "character_xiao.webp",
