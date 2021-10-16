@@ -61,7 +61,7 @@ export default function Home() {
           <div className="w-full xl:w-1/2 pb-2 px-2 xl:pr-2 xl:pl-0">
             <a href="/assets/Character_CharacterEXP.webp">
               <Image
-                src="/assets/Character_CharacterEXP.webp"
+                src="/assets/character_exp.webp"
                 alt={`Character EXP Requirements`}
                 width={1620}
                 height={1080}
