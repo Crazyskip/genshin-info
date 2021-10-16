@@ -2,7 +2,7 @@ const characters = [
   {
     name: "Albedo",
     stars: 5,
-    element: "geo",
+    element: "Geo",
     image: "albedo.webp",
     ascension: "Character_Albedo.webp",
     guide: "Character_Albedo.webp",
@@ -16,7 +16,7 @@ const characters = [
   {
     name: "Aloy",
     stars: 5,
-    element: "cryo",
+    element: "Cryo",
     image: "aloy.webp",
     ascension: "Character_Aloy.webp",
     guide: "Character_Aloy.webp",
@@ -25,7 +25,7 @@ const characters = [
   {
     name: "Amber",
     stars: 4,
-    element: "pyro",
+    element: "Pyro",
     image: "amber.webp",
     ascension: "Character_Amber.webp",
     guide: "Character_Amber.webp",
@@ -39,7 +39,7 @@ const characters = [
   {
     name: "Ayaka",
     stars: 5,
-    element: "cryo",
+    element: "Cryo",
     image: "ayaka.webp",
     ascension: "Character_Ayaka.webp",
     guide: "Character_Ayaka.webp",
@@ -53,7 +53,7 @@ const characters = [
   {
     name: "Barbara",
     stars: 4,
-    element: "hydro",
+    element: "Hydro",
     image: "barbara.webp",
     ascension: "Character_Barbara.webp",
     guide: "Character_Barbara.webp",
@@ -80,7 +80,7 @@ const characters = [
   {
     name: "Bennett",
     stars: 4,
-    element: "pyro",
+    element: "Pyro",
     image: "bennett.webp",
     ascension: "Character_Bennett.webp",
     guide: "Character_Bennett.webp",
@@ -94,7 +94,7 @@ const characters = [
   {
     name: "Chongyun",
     stars: 4,
-    element: "cryo",
+    element: "Cryo",
     image: "chongyun.webp",
     ascension: "Character_Chongyun.webp",
     guide: "Character_Chongyun.webp",
@@ -103,7 +103,7 @@ const characters = [
   {
     name: "Diluc",
     stars: 5,
-    element: "pyro",
+    element: "Pyro",
     image: "diluc.webp",
     ascension: "Character_Diluc.webp",
     guide: "Character_Diluc.webp",
@@ -117,7 +117,7 @@ const characters = [
   {
     name: "Diona",
     stars: 4,
-    element: "cryo",
+    element: "Cryo",
     image: "diona.webp",
     ascension: "Character_Diona.webp",
     guide: "Character_Diona.webp",
@@ -135,7 +135,7 @@ const characters = [
   {
     name: "Eula",
     stars: 5,
-    element: "cryo",
+    element: "Cryo",
     image: "eula.webp",
     ascension: "Character_Eula.webp",
     guide: "Character_Eula.webp",
@@ -162,7 +162,7 @@ const characters = [
   {
     name: "Ganyu",
     stars: 5,
-    element: "cryo",
+    element: "Cryo",
     image: "ganyu.webp",
     ascension: "Character_Ganyu.webp",
     guide: "Character_Ganyu.webp",
@@ -176,7 +176,7 @@ const characters = [
   {
     name: "Gorou",
     stars: 5,
-    element: "geo",
+    element: "Geo",
     image: "gorou.webp",
     ascension: "Character_Gorou.webp",
     guide: "Coming_Soon.webp",
@@ -185,7 +185,7 @@ const characters = [
   {
     name: "Hu Tao",
     stars: 5,
-    element: "pyro",
+    element: "Pyro",
     image: "hu_tao.webp",
     ascension: "Character_HuTao.webp",
     guide: "Character_HuTao.webp",
@@ -213,7 +213,7 @@ const characters = [
   {
     name: "Kaeya",
     stars: 4,
-    element: "cryo",
+    element: "Cryo",
     image: "kaeya.webp",
     ascension: "Character_Kaeya.webp",
     guide: "Character_Kaeya.webp",
@@ -263,7 +263,7 @@ const characters = [
   {
     name: "Klee",
     stars: 5,
-    element: "pyro",
+    element: "Pyro",
     image: "klee.webp",
     ascension: "Character_Klee.webp",
     guide: "Character_Klee.webp",
@@ -277,7 +277,7 @@ const characters = [
   {
     name: "Kokomi",
     stars: 5,
-    element: "hydro",
+    element: "Hydro",
     image: "kokomi.webp",
     ascension: "Character_Kokomi.webp",
     guide: "Character_Kokomi.webp",
@@ -318,7 +318,7 @@ const characters = [
   {
     name: "Mona",
     stars: 5,
-    element: "hydro",
+    element: "Hydro",
     image: "mona.webp",
     ascension: "Character_Mona.webp",
     guide: "Character_Mona.webp",
@@ -332,7 +332,7 @@ const characters = [
   {
     name: "Ningguang",
     stars: 4,
-    element: "geo",
+    element: "Geo",
     image: "ningguang.webp",
     ascension: "Character_Ningguang.webp",
     guide: "Character_Ningguang.webp",
@@ -350,7 +350,7 @@ const characters = [
   {
     name: "Noelle",
     stars: 4,
-    element: "geo",
+    element: "Geo",
     image: "noelle.webp",
     ascension: "Character_Noelle.webp",
     guide: "Character_Noelle.webp",
@@ -364,7 +364,7 @@ const characters = [
   {
     name: "Qiqi",
     stars: 5,
-    element: "cryo",
+    element: "Cryo",
     image: "qiqi.webp",
     ascension: "Character_Qiqi.webp",
     guide: "Character_Qiqi.webp",
@@ -410,7 +410,7 @@ const characters = [
   {
     name: "Rosaria",
     stars: 4,
-    element: "cryo",
+    element: "Cryo",
     image: "rosaria.webp",
     ascension: "Character_Rosaria.webp",
     guide: "Character_Rosaria.webp",
@@ -455,7 +455,7 @@ const characters = [
   {
     name: "Tartaglia",
     stars: 5,
-    element: "hydro",
+    element: "Hydro",
     image: "tartaglia.webp",
     ascension: "Character_Tartaglia.webp",
     guide: "Character_Tartaglia.webp",
@@ -469,7 +469,7 @@ const characters = [
   {
     name: "Thoma",
     stars: 4,
-    element: "pyro",
+    element: "Pyro",
     image: "thoma.webp",
     ascension: "Character_Thoma.webp",
     guide: "Character_Thoma.webp",
@@ -492,7 +492,7 @@ const characters = [
   {
     name: "Xiangling",
     stars: 4,
-    element: "pyro",
+    element: "Pyro",
     image: "xiangling.webp",
     ascension: "Character_Xiangling.webp",
     guide: "Character_Xiangling.webp",
@@ -520,7 +520,7 @@ const characters = [
   {
     name: "Xingqiu",
     stars: 4,
-    element: "hydro",
+    element: "Hydro",
     image: "xingqiu.webp",
     ascension: "Character_Xingqiu.webp",
     guide: "Character_Xingqiu.webp",
@@ -542,7 +542,7 @@ const characters = [
   {
     name: "Xinyan",
     stars: 4,
-    element: "pyro",
+    element: "Pyro",
     image: "xinyan.webp",
     ascension: "Character_Xinyan.webp",
     guide: "Character_Xinyan.webp",
@@ -556,7 +556,7 @@ const characters = [
   {
     name: "Yanfei",
     stars: 4,
-    element: "pyro",
+    element: "Pyro",
     image: "yanfei.webp",
     ascension: "Character_Yanfei.webp",
     guide: "Character_Yanfei.webp",
@@ -565,7 +565,7 @@ const characters = [
   {
     name: "Yoimiya",
     stars: 5,
-    element: "pyro",
+    element: "Pyro",
     image: "yoimiya.webp",
     ascension: "Character_Yoimiya.webp",
     guide: "Character_Yoimiya.webp",
@@ -583,7 +583,7 @@ const characters = [
   {
     name: "Zhongli",
     stars: 5,
-    element: "geo",
+    element: "Geo",
     image: "zhongli.webp",
     ascension: "Character_Zhongli.webp",
     guide: "Character_Zhongli.webp",
