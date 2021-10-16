@@ -4,8 +4,8 @@ const characters = [
     stars: 5,
     element: "geo",
     image: "albedo.webp",
-    ascension: "Character_Albedo.jpg",
-    guide: "Character_Albedo.jpg",
+    ascension: "Character_Albedo.webp",
+    guide: "Character_Albedo.webp",
     links: [
       {
         title: "Keqing Mains Full Albedo Guide",
@@ -18,8 +18,8 @@ const characters = [
     stars: 5,
     element: "cryo",
     image: "aloy.webp",
-    ascension: "Character_Aloy.png",
-    guide: "Character_Aloy.jpg",
+    ascension: "Character_Aloy.webp",
+    guide: "Character_Aloy.webp",
     links: [],
   },
   {
@@ -27,8 +27,8 @@ const characters = [
     stars: 4,
     element: "pyro",
     image: "amber.webp",
-    ascension: "Character_Amber.jpg",
-    guide: "Character_Amber.jpg",
+    ascension: "Character_Amber.webp",
+    guide: "Character_Amber.webp",
     links: [
       {
         title: "Keqing Mains Amber Guide",
@@ -41,8 +41,8 @@ const characters = [
     stars: 5,
     element: "cryo",
     image: "ayaka.webp",
-    ascension: "Character_Ayaka.png",
-    guide: "Character_Ayaka.jpg",
+    ascension: "Character_Ayaka.webp",
+    guide: "Character_Ayaka.webp",
     links: [
       {
         title: "Keqing Mains Full Ayaka Guide",
@@ -55,8 +55,8 @@ const characters = [
     stars: 4,
     element: "hydro",
     image: "barbara.webp",
-    ascension: "Character_Barbara.jpg",
-    guide: "Character_Barbara.png",
+    ascension: "Character_Barbara.webp",
+    guide: "Character_Barbara.webp",
     links: [],
   },
   {
@@ -64,8 +64,8 @@ const characters = [
     stars: 4,
     element: "electro",
     image: "beidou.webp",
-    ascension: "Character_Beidou.jpg",
-    guide: "Character_Beidou.jpg",
+    ascension: "Character_Beidou.webp",
+    guide: "Character_Beidou.webp",
     links: [
       {
         title: "Keqing Mains Ultimate Beidou Guide",
@@ -82,8 +82,8 @@ const characters = [
     stars: 4,
     element: "pyro",
     image: "bennett.webp",
-    ascension: "Character_Bennett.png",
-    guide: "Character_Bennett.jpg",
+    ascension: "Character_Bennett.webp",
+    guide: "Character_Bennett.webp",
     links: [
       {
         title: "Keqing Mains Bennett Guide",
@@ -96,8 +96,8 @@ const characters = [
     stars: 4,
     element: "cryo",
     image: "chongyun.webp",
-    ascension: "Character_Chongyun.jpg",
-    guide: "Character_Chongyun.png",
+    ascension: "Character_Chongyun.webp",
+    guide: "Character_Chongyun.webp",
     links: [],
   },
   {
@@ -105,8 +105,8 @@ const characters = [
     stars: 5,
     element: "pyro",
     image: "diluc.webp",
-    ascension: "Character_Diluc.jpg",
-    guide: "Character_Diluc.jpg",
+    ascension: "Character_Diluc.webp",
+    guide: "Character_Diluc.webp",
     links: [
       {
         title: "Keqing Mains Diluc Guide",
@@ -119,8 +119,8 @@ const characters = [
     stars: 4,
     element: "cryo",
     image: "diona.webp",
-    ascension: "Character_Diona.jpg",
-    guide: "Character_Diona.jpg",
+    ascension: "Character_Diona.webp",
+    guide: "Character_Diona.webp",
     links: [
       {
         title: "Keqing Mains Full Diona Guide",
@@ -137,8 +137,8 @@ const characters = [
     stars: 5,
     element: "cryo",
     image: "eula.webp",
-    ascension: "Character_Eula.jpg",
-    guide: "Character_Eula.png",
+    ascension: "Character_Eula.webp",
+    guide: "Character_Eula.webp",
     links: [
       {
         title: "Keqing Mains Basic Eula Guide",
@@ -155,8 +155,8 @@ const characters = [
     stars: 4,
     element: "electro",
     image: "fischl.webp",
-    ascension: "Character_Fischl.jpg",
-    guide: "Character_Fischl.jpg",
+    ascension: "Character_Fischl.webp",
+    guide: "Character_Fischl.webp",
     links: [],
   },
   {
@@ -164,8 +164,8 @@ const characters = [
     stars: 5,
     element: "cryo",
     image: "ganyu.webp",
-    ascension: "Character_Ganyu.jpg",
-    guide: "Character_Ganyu.jpg",
+    ascension: "Character_Ganyu.webp",
+    guide: "Character_Ganyu.webp",
     links: [
       {
         title: "Keqing Mains Full Ganyu Guide",
@@ -178,8 +178,8 @@ const characters = [
     stars: 5,
     element: "geo",
     image: "gorou.webp",
-    ascension: "Character_Gorou.png",
-    guide: "Coming_Soon.jpg",
+    ascension: "Character_Gorou.webp",
+    guide: "Coming_Soon.webp",
     links: [],
   },
   {
@@ -187,8 +187,8 @@ const characters = [
     stars: 5,
     element: "pyro",
     image: "hu_tao.webp",
-    ascension: "Character_HuTao.jpg",
-    guide: "Character_HuTao.jpg",
+    ascension: "Character_HuTao.webp",
+    guide: "Character_HuTao.webp",
     links: [
       {
         title: "Keqing Mains Hu Tao Guide (WIP)",
@@ -201,8 +201,8 @@ const characters = [
     stars: 5,
     element: "anemo",
     image: "jean.webp",
-    ascension: "Character_Jean.jpg",
-    guide: "Character_Jean.jpg",
+    ascension: "Character_Jean.webp",
+    guide: "Character_Jean.webp",
     links: [
       {
         title: "Keqing Mains Jean Guide",
@@ -215,8 +215,8 @@ const characters = [
     stars: 4,
     element: "cryo",
     image: "kaeya.webp",
-    ascension: "Character_Kaeya.jpg",
-    guide: "Character_Kaeya.jpg",
+    ascension: "Character_Kaeya.webp",
+    guide: "Character_Kaeya.webp",
     links: [
       {
         title: "Keqing Mains Kaeya Guide",
@@ -229,8 +229,8 @@ const characters = [
     stars: 5,
     element: "anemo",
     image: "kazuha.webp",
-    ascension: "Character_Kazuha.png",
-    guide: "Character_Kazuha.png",
+    ascension: "Character_Kazuha.webp",
+    guide: "Character_Kazuha.webp",
     links: [
       {
         title: "Keqing Mains Kazuha Guide",
@@ -247,8 +247,8 @@ const characters = [
     stars: 5,
     element: "electro",
     image: "keqing.webp",
-    ascension: "Character_Keqing.jpg",
-    guide: "Character_Keqing.jpg",
+    ascension: "Character_Keqing.webp",
+    guide: "Character_Keqing.webp",
     links: [
       {
         title: "Keqing Mains Full Keqing Guide",
@@ -265,8 +265,8 @@ const characters = [
     stars: 5,
     element: "pyro",
     image: "klee.webp",
-    ascension: "Character_Klee.jpg",
-    guide: "Character_Klee.jpg",
+    ascension: "Character_Klee.webp",
+    guide: "Character_Klee.webp",
     links: [
       {
         title: "Keqing Mains In Depth Klee Guide",
@@ -279,8 +279,8 @@ const characters = [
     stars: 5,
     element: "hydro",
     image: "kokomi.webp",
-    ascension: "Character_Kokomi.png",
-    guide: "Character_Kokomi.jpg",
+    ascension: "Character_Kokomi.webp",
+    guide: "Character_Kokomi.webp",
     links: [
       {
         title: "Keqing Mains Kokomi Guide",
@@ -297,8 +297,8 @@ const characters = [
     stars: 4,
     element: "electro",
     image: "kujou_sara.webp",
-    ascension: "Character_Sara.png",
-    guide: "Character_Sara.jpg",
+    ascension: "Character_Sara.webp",
+    guide: "Character_Sara.webp",
     links: [],
   },
   {
@@ -306,8 +306,8 @@ const characters = [
     stars: 4,
     element: "electro",
     image: "lisa.webp",
-    ascension: "Character_Lisa.jpg",
-    guide: "Character_Lisa.jpg",
+    ascension: "Character_Lisa.webp",
+    guide: "Character_Lisa.webp",
     links: [
       {
         title: "Keqing Mains In Depth Lisa Guide",
@@ -320,8 +320,8 @@ const characters = [
     stars: 5,
     element: "hydro",
     image: "mona.webp",
-    ascension: "Character_Mona.jpg",
-    guide: "Character_Mona.jpg",
+    ascension: "Character_Mona.webp",
+    guide: "Character_Mona.webp",
     links: [
       {
         title: "Keqing Mains Mona Guide",
@@ -334,8 +334,8 @@ const characters = [
     stars: 4,
     element: "geo",
     image: "ningguang.webp",
-    ascension: "Character_Ningguang.jpg",
-    guide: "Character_Ningguang.jpg",
+    ascension: "Character_Ningguang.webp",
+    guide: "Character_Ningguang.webp",
     links: [
       {
         title: "Keqing Mains Full Ningguang Guide",
@@ -352,8 +352,8 @@ const characters = [
     stars: 4,
     element: "geo",
     image: "noelle.webp",
-    ascension: "Character_Noelle.jpg",
-    guide: "Character_Noelle.jpg",
+    ascension: "Character_Noelle.webp",
+    guide: "Character_Noelle.webp",
     links: [
       {
         title: "Keqing Mains Full Noelle Guide",
@@ -366,8 +366,8 @@ const characters = [
     stars: 5,
     element: "cryo",
     image: "qiqi.webp",
-    ascension: "Character_Qiqi.jpg",
-    guide: "Character_Qiqi.png",
+    ascension: "Character_Qiqi.webp",
+    guide: "Character_Qiqi.webp",
     links: [
       {
         title: "Keqing Mains Qiqi Guide",
@@ -380,8 +380,8 @@ const characters = [
     stars: 5,
     element: "electro",
     image: "raiden_shogun.webp",
-    ascension: "Character_Raiden.png",
-    guide: "Character_Raiden.jpg",
+    ascension: "Character_Raiden.webp",
+    guide: "Character_Raiden.webp",
     links: [
       {
         title: "Keqing Mains Ultimate Raiden Shogun Guide",
@@ -398,8 +398,8 @@ const characters = [
     stars: 4,
     element: "electro",
     image: "razor.webp",
-    ascension: "Character_Razor.jpg",
-    guide: "Character_Razor.jpg",
+    ascension: "Character_Razor.webp",
+    guide: "Character_Razor.webp",
     links: [
       {
         title: "Keqing Mains In-Depth Razor Guide",
@@ -412,8 +412,8 @@ const characters = [
     stars: 4,
     element: "cryo",
     image: "rosaria.webp",
-    ascension: "Character_Rosaria.jpg",
-    guide: "Character_Rosaria.png",
+    ascension: "Character_Rosaria.webp",
+    guide: "Character_Rosaria.webp",
     links: [
       {
         title: "Keqing Mains Full Rosaria Guide",
@@ -430,8 +430,8 @@ const characters = [
     stars: 4,
     element: "electro",
     image: "sayu.webp",
-    ascension: "Character_Sayu.png",
-    guide: "Character_Sayu.jpg",
+    ascension: "Character_Sayu.webp",
+    guide: "Character_Sayu.webp",
     links: [],
   },
   {
@@ -439,8 +439,8 @@ const characters = [
     stars: 4,
     element: "anemo",
     image: "sucrose.webp",
-    ascension: "Character_Sucrose.jpg",
-    guide: "Character_Sucrose.jpg",
+    ascension: "Character_Sucrose.webp",
+    guide: "Character_Sucrose.webp",
     links: [
       {
         title: "Keqing Mains Full Sucrose Guide",
@@ -457,8 +457,8 @@ const characters = [
     stars: 5,
     element: "hydro",
     image: "tartaglia.webp",
-    ascension: "Character_Tartaglia.jpg",
-    guide: "Character_Tartaglia.jpg",
+    ascension: "Character_Tartaglia.webp",
+    guide: "Character_Tartaglia.webp",
     links: [
       {
         title: "Keqing Mains Tartaglia Guide",
@@ -471,8 +471,8 @@ const characters = [
     stars: 4,
     element: "pyro",
     image: "thoma.webp",
-    ascension: "Character_Thoma.jpg",
-    guide: "Character_Thoma.jpg",
+    ascension: "Character_Thoma.webp",
+    guide: "Character_Thoma.webp",
     links: [],
   },
   {
@@ -480,8 +480,8 @@ const characters = [
     stars: 5,
     element: "anemo",
     image: "venti.webp",
-    ascension: "Character_Venti.jpg",
-    guide: "Character_Venti.jpg",
+    ascension: "Character_Venti.webp",
+    guide: "Character_Venti.webp",
     links: [
       {
         title: "Keqing Mains Venti Guide",
@@ -494,8 +494,8 @@ const characters = [
     stars: 4,
     element: "pyro",
     image: "xiangling.webp",
-    ascension: "Character_Xiangling.jpg",
-    guide: "Character_Xiangling.jpg",
+    ascension: "Character_Xiangling.webp",
+    guide: "Character_Xiangling.webp",
     links: [
       {
         title: "Keqing Mains Xiangling Guide",
@@ -508,8 +508,8 @@ const characters = [
     stars: 5,
     element: "anemo",
     image: "xiao.webp",
-    ascension: "Character_Xiao.jpg",
-    guide: "Character_Xiao.jpg",
+    ascension: "Character_Xiao.webp",
+    guide: "Character_Xiao.webp",
     links: [
       {
         title: "Keqing Mains Xiao Guide",
@@ -522,8 +522,8 @@ const characters = [
     stars: 4,
     element: "hydro",
     image: "xingqiu.webp",
-    ascension: "Character_Xingqiu.jpg",
-    guide: "Character_Xingqiu.jpg",
+    ascension: "Character_Xingqiu.webp",
+    guide: "Character_Xingqiu.webp",
     links: [
       {
         title: "Keqing Mains Extended Xingqiu Guide",
@@ -544,8 +544,8 @@ const characters = [
     stars: 4,
     element: "pyro",
     image: "xinyan.webp",
-    ascension: "Character_Xinyan.jpg",
-    guide: "Character_Xinyan.jpg",
+    ascension: "Character_Xinyan.webp",
+    guide: "Character_Xinyan.webp",
     links: [
       {
         title: "Keqing Mains Xinyan Guide",
@@ -558,8 +558,8 @@ const characters = [
     stars: 4,
     element: "pyro",
     image: "yanfei.webp",
-    ascension: "Character_Yanfei.jpg",
-    guide: "Character_Yanfei.jpg",
+    ascension: "Character_Yanfei.webp",
+    guide: "Character_Yanfei.webp",
     links: [],
   },
   {
@@ -567,8 +567,8 @@ const characters = [
     stars: 5,
     element: "pyro",
     image: "yoimiya.webp",
-    ascension: "Character_Yoimiya.png",
-    guide: "Character_Yoimiya.jpg",
+    ascension: "Character_Yoimiya.webp",
+    guide: "Character_Yoimiya.webp",
     links: [
       {
         title: "Keqing Mains Yoimiya Guide",
@@ -585,8 +585,8 @@ const characters = [
     stars: 5,
     element: "geo",
     image: "zhongli.webp",
-    ascension: "Character_Zhongli.jpg",
-    guide: "Character_Zhongli.jpg",
+    ascension: "Character_Zhongli.webp",
+    guide: "Character_Zhongli.webp",
     links: [
       {
         title: "Keqing Mains Full Zhongli Guide",
