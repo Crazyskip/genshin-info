@@ -1,0 +1,70 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap");
+
+html {
+  min-width: 400px;
+  background-color: #0c3052;
+  background-image: url("/assets/background.jpeg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.crimson-font {
+  font-family: "Crimson Text", serif !important;
+}
+
+.character-card {
+  width: 100%;
+  .character-image {
+    width: 100px;
+    height: 100px;
+  }
+}
+
+.character-banner {
+  .character-image {
+    width: 150px;
+    height: 150px;
+  }
+  .element-image {
+    height: 40px;
+    width: 40px;
+  }
+}
+
+hr {
+  border: 0;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.8);
+  width: 225px;
+}
+
+@media only screen and (min-width: 768px) {
+  .character-card {
+    height: 130px;
+    .character-image {
+      width: 130px;
+      height: 130px;
+    }
+  }
+
+  .character-banner {
+    .character-image {
+      width: 180px;
+      height: 180px;
+    }
+    .element-image {
+      height: 50px;
+      width: 50px;
+    }
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  .character-card {
+    width: calc(50% - 10px - 1px);
+  }
+}
